@@ -4,11 +4,11 @@
 		<title lang="DE">David's Repository</title>
 	</details>
 	<plugins>
-		<plugin name="Ö1" creator="David Tischler" link="https://github.com/tischlda/squeezebox-oe1" maxTarget="7.*" minTarget="7.7" sha="EB01BA4270A36C72BA69DA5A27AC60C908C69729" url="https://github.com/tischlda/squeezebox-oe1/releases/download/1.0.0/OE1.1.0.0.zip" version="1.0.0">
-			<title lang="EN">Ö1</title>
-			<title lang="DE">Ö1</title>
-			<desc lang="EN">Access to the live stream and the 7-day-archive of the Austrian radio station Ö1.</desc>
-			<desc lang="DE">Zugriff auf den Live Stream und das 7-Tage-Archiv des österreichischen Radiosenders Ö1.</desc>
+		<plugin name="Ã–1" creator="David Tischler" link="https://github.com/tischlda/squeezebox-oe1" maxTarget="7.*" minTarget="7.7" sha="EB01BA4270A36C72BA69DA5A27AC60C908C69729" url="http://github.com/tischlda/squeezebox-oe1/releases/download/1.0.0/OE1.1.0.0.zip" version="1.0.0">
+			<title lang="EN">Ã–1</title>
+			<title lang="DE">Ã–1</title>
+			<desc lang="EN">Access to the live stream and the 7-day-archive of the Austrian radio station Ã–1.</desc>
+			<desc lang="DE">Zugriff auf den Live Stream und das 7-Tage-Archiv des Ã¶sterreichischen Radiosenders Ã–1.</desc>
 		</plugin>
 	</plugins>
 </extensions>
