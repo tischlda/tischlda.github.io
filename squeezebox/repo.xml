@@ -5,7 +5,7 @@
 		<title lang="DE">Davids Plugins</title>
 	</details>
 	<plugins>
-		<plugin name="OE1" creator="David Tischler" link="https://github.com/tischlda/squeezebox-oe1" maxTarget="7.*" minTarget="7.7" sha="963c51d0e44784ef0c504986f7546df53dae7ed0" url="https://github.com/tischlda/squeezebox-oe1/releases/download/1.1.0/OE1.1.1.0.zip" version="1.1.0">
+		<plugin name="OE1" creator="David Tischler" link="https://github.com/tischlda/squeezebox-oe1" maxTarget="7.*" minTarget="7.7" sha="963c51d0e44784ef0c504986f7546df53dae7ed0" url="https://tischlda.github.io/squeezebox/OE1.1.1.0.zip" version="1.1.0">
 			<title lang="EN">Ö1</title>
 			<title lang="DE">Ö1</title>
 			<desc lang="EN">Access to the live stream and the 7-day-archive of the Austrian radio station Ö1.</desc>
